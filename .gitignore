@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# OS / Editor system files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Optional: IDE configs
+.idea/
+*.iml
+
+# SQLite / DB files (if any used locally)
+*.sqlite
+*.db
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Mac system files
+._*
+.Spotlight-V100
+.Trashes
